@@ -1,0 +1,4 @@
+name,email,role,expectedStatus
+Alice,alice@karate.com,admin,201
+Bob,bob@karate.com,user,201
+Charlie,,user,400
