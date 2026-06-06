@@ -1,6 +1,5 @@
 # 🥋 Karate API Testing Masterclass Framework
 
-[![Karate API Tests](https://github.com/MYCodeYatra/mcyt-api-karate/actions/workflows/karate-ci.yml/badge.svg)](https://github.com/MYCodeYatra/mcyt-api-karate/actions/workflows/karate-ci.yml)
 [![Java Support](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.oracle.com/java/)
 [![Karate](https://img.shields.io/badge/Karate-1.4.1-green.svg)](https://github.com/karatelabs/karate)
 
