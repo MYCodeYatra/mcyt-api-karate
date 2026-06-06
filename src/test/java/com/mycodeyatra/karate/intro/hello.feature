@@ -4,8 +4,8 @@ Feature: Introduction to Karate DSL
     * url baseUrl
 
   Scenario: Verify basic API GET request
-    Given path '/users/2'
+    Given path '/health'
     When method get
     Then status 200
-    And match response.data.id == 2
-    And match response.data.first_name == 'Janet'
+    And match response.status == 'OK'
+    And match response.message == 'Mock Server is running'
